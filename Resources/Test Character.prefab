@@ -87,9 +87,6 @@ GameObject:
   - component: {fileID: 4588196362402938174}
   - component: {fileID: 6058471753902367519}
   - component: {fileID: 6810464328702708250}
-  - component: {fileID: -7156548004734027045}
-  - component: {fileID: 7133755649271935414}
-  - component: {fileID: 4665285993766061284}
   m_Layer: 0
   m_Name: Test Character
   m_TagString: Untagged
@@ -192,7 +189,7 @@ MonoBehaviour:
     AutoBhop: 1
     AirCap: 0.7619996
     AirCapSurfModifier: 1
-    AirAccel: 38.09998
+    AirAccel: 1500
     Accel: 5.1
     Friction: 4
     BrakeSpeed: 1
@@ -220,42 +217,6 @@ MonoBehaviour:
     ForwardSpeed: 10.159995
     SideSpeed: 10.159995
     WaterDepthToSwim: 0.6
---- !u!114 &-7156548004734027045
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4175275008609391910}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3bdd132b30068be4a9e7e5776bbfcaea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &7133755649271935414
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4175275008609391910}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: afc1ac07f3ba76e469a65d423f1e6b63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4665285993766061284
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4175275008609391910}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cb81c2b102d36024cb756c744d023bbe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &5743484972640676244
 GameObject:
   m_ObjectHideFlags: 0
