@@ -167,7 +167,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4175275008609391910}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 152162274, guid: 78db89a678e9f484b939829bb7b82cfc, type: 3}
+  m_Script: {fileID: 1638816895, guid: 78db89a678e9f484b939829bb7b82cfc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   TickRate: 100
@@ -184,6 +184,8 @@ MonoBehaviour:
   MoveRight: 100
   MoveForward: 119
   MoveBack: 115
+  Noclip: 110
+  Restart: 114
   _moveConfig:
     Gravity: 20.31999
     AutoBhop: 1

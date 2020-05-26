@@ -1,20 +1,14 @@
 {
   "name": "com.fragsurf.editor",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "displayName": "Fragsurf Editor",
   "description": "Tools required for building Fragsurf maps.",
   "unity": "2020.2",
-  "unityRelease": "0a9",
+  "unityRelease": "0a11",
   "dependencies": {
-    "com.unity.render-pipelines.universal": "8.1.0",
     "com.unity.scriptablebuildpipeline": "1.5.10",
 	"com.unity.probuilder": "4.3.0-preview.9"
  },
- "keywords": [
-    "keyword1",
-    "keyword2",
-    "keyword3"
-  ],
   "author": {
     "name": "Fragsurf Studios",
     "email": "mail@fragsurf.com",
