@@ -1,6 +1,6 @@
 {
   "name": "com.fragsurf.editor",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "displayName": "Fragsurf Editor",
   "description": "Tools required for building Fragsurf maps.",
   "unity": "2020.2",
