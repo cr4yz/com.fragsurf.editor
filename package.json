@@ -1,6 +1,6 @@
 {
   "name": "com.fragsurf.editor",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "displayName": "Fragsurf Editor",
   "description": "Fragsurf components and build/workshop tools.",
   "unity": "2020.2",
