@@ -1,13 +1,13 @@
 {
   "name": "com.fragsurf.editor",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "displayName": "Fragsurf Editor",
   "description": "Fragsurf components and build/workshop tools.",
   "unity": "2020.2",
-  "unityRelease": "0a13",
+  "unityRelease": "0a17",
   "dependencies": {},
   "author": {
-    "name": "Fragsurf Studios",
+    "name": "Fragsurf",
     "email": "mail@fragsurf.com",
     "url": "https://fragsurf.com"
   }
